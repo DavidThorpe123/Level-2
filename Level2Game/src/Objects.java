@@ -1,10 +1,10 @@
 import java.awt.Graphics;
 
 public class Objects {
-	public static int x;
-	public static int y;
-	public static int width;
-	public static int height;
+	public int x;
+	public int y;
+	public int width;
+	public int height;
 
 	Objects(int x, int y, int width, int height) {
 		this.x = x;
